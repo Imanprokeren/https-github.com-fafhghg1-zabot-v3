@@ -1,6 +1,6 @@
 {
-    "name": "ZaBot-MD",
-    "version": "3.0.0",
+    "name": "ImanBot-MD",
+    "version": "2.0.0",
     "description": "Simple Bot WhatsApp with Baileys Multi Device",
     "depecrated": false,
     "main": "index.js",
