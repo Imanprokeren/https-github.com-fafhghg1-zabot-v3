@@ -8,7 +8,7 @@ const Readline = require('readline')
 const yargs = require('yargs/yargs')
 const rl = Readline.createInterface(process.stdin, process.stdout)
 
-CFonts.say('ZaBot-MD\nMulti-device ', {
+CFonts.say('ImanBot-MD\nMulti-device ', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
